@@ -9,6 +9,9 @@ PURPLE = (80,15,130)
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 color = CHROMIS_TEAL
+#GREY = (127, 127, 127)
+#color = Grey
+#This is the code that was on the computer but not on the GitHub (I don't think it has an actual effect)
 
 DEFAULT = 0
 RECORDING = 1
